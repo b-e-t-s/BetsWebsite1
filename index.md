@@ -1,5 +1,4 @@
 
-[toc]
 
 ![simulated_bh](images/simulated_bh.jpg)
 
